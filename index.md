@@ -1,7 +1,4 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
----
+
 # Nithilan Muruganandham (nmurugandham@ucsd.edu)
 ## Learning and Using Causality for a Further Step of Machine Intelligence(Biwei Huang and Babak Salimi)
 ### 1.)What is the most interesting topic covered in your domain this quarter?
