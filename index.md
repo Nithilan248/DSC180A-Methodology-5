@@ -7,6 +7,6 @@ Causality is a topic that can be applied to many different fields. I really enjo
 I was thinking of using variables that aren;t included in the studies we used such as car production, types of car used, general time series data with other factors to see if climate change is caused by thouse factors and see if the rate of emmissins has imporved at all due to the current awareness.
 ### 3.) We spent a lot of time on what projects to do without actually doing the project. 
 A lot of the meetings was trying to understand papers and is a lot more research based. Although this is great for learning, the pacing seems a bit too slow.
-### 4.) What other techniques would you be interested in using in your project?
+### **4.) What other techniques would you be interested in using in your project?**
 Neural networks were only briefly talked about and I think we don't have time to used them in our project, but maybe if we have more time or if we need to use them, then we can learn about neural networks and how to apply them.
 
